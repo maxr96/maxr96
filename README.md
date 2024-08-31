@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maksym Radchuk</h1>
-<h3 align="center">A passionate fullstack developer from Ukraine living and working in Munich</h3>
+<h3 align="center">A passionate fullstack developer from Ukraine 🇺🇦 living and working in Munich 🇩🇪</h3>
 
 - 📫 How to reach me **maxr96@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/maksymradcuk/](https://www.linkedin.com/in/maksymradcuk/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/maksymradcuk/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
